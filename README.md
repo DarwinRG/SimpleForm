@@ -3,7 +3,7 @@
 SimpleForm is a basic web application designed to demonstrate form handling using HTML, CSS, and PHP.
 
 ## Features
-
+- Login / Signup via Username and Password
 - User-friendly form interface
 - Input validation
 - Data submission and handling with PHP
